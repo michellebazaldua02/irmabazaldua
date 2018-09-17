@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+<h1>Grey</h1>
+<body>
+  <a href="./blue.html">Blue</a>
+  <a href="./green.html">Green</a>
+  <img src="https://cdn.shopify.com/s/files/1/1931/6473/products/12711_1024x1024.jpg?v=1522487897">
+  <div class="login"> <a>Login Here</a>
+   </div>
+  <div class="container">
+  <div class="navbar">
+      <h4>My Favorite Colors</h4>
+      <ul>
+        <li> <a href="./grey.html">Grey</a> </li>
+        <li> <a href="./blue.html">Blue</a> </li>
+        <li> <a href= "./green.html">Green</a> </li>
+      </ul>
+</div>
+</footer>
+
+<p>The color <a href= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Color_icon_gray.svg/1024px-Color_icon_gray.svg.png">
+grey</a> is a cool, nuetral shade.
+</p>
+</div
+</body>
+</html>
