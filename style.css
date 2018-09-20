@@ -31,3 +31,15 @@ float: right;
 .login a:active {
   top: 5px;
 }
+
+#green {
+  background-image: url("./images/greenpicture.jpg");
+}
+
+#blue {
+  background-image: url("./images/bluepicture.jpg");
+}
+
+#grey {
+  background-image: url("./images/greypicture.jpg");
+}
